@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { IoMdWallet } from "react-icons/io";
+
 import { MdManageAccounts } from "react-icons/md";
 import { BiUser } from "react-icons/bi";
 

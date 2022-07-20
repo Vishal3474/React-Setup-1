@@ -8,8 +8,24 @@ function Courses() {
     <div>
       <div
         name="home"
-        className="w-full h-screen bg-zinc-200 flex flex-col justify-between bg-cover bg-[url('https://img.freepik.com/free-photo/various-colorful-stationery-school-office-pink-background-with-copyspace_127032-1753.jpg?w=2000')]"
-      ></div>
+        className="w-full h-screen bg-zinc-200 flex flex-col justify-between bg-cover bg-[url('https://cdn.discordapp.com/attachments/944189291427430421/999270894994206771/jeshoots-com-pUAM5hPaCRI-unsplash.jpg')]"
+      >
+        <div className="ml-auto mt-72 mr-96">
+          <h1 className="text-4xl font-serif text-indigo-600">
+            India's Largest
+          </h1>
+          <br />
+          <h1 className="text-4xl font-serif text-indigo-600 font-bold">
+            Learning Platform
+          </h1>
+        </div>
+        <div className="text-center justify-center ml-auto  mr-64 mb-48 animate-bounce">
+          <button className="  text-2xl font-semibold text-white bg-indigo-600 px-3 py-2 inline-block font-mono rounded-lg   mt-20">
+            {" "}
+            Start Learning
+          </button>
+        </div>
+      </div>
       <div className="text-center justify-center">
         <h1 className="mb-2  text-4xl font-semibold text-white bg-blue-500 px-4 py-3 inline-block font-mono rounded-lg   mt-20">
           Available Courses
