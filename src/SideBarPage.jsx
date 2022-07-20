@@ -9,7 +9,7 @@ function SideBarPage() {
     <div className=" bg-indigo-500 flex   ">
       <div className="flex  ml-4  ">
         <h1 className="text-white font-extrabold text-4xl text-center items-center pt-6 mb-2">
-          InternShip
+          IA VIP
         </h1>
         <div className=" ml-8 flex text-center space-x-8">
           <Link
