@@ -19,8 +19,8 @@ function Courses() {
             Learning Platform
           </h1>
         </div>
-        <div className="text-center justify-center ml-auto  mr-64 mb-48 animate-bounce">
-          <button className="  text-2xl font-semibold text-white bg-indigo-600 px-3 py-2 inline-block font-mono rounded-lg   mt-20">
+        <div className="text-center justify-center ml-auto  mr-64 mb-48 animate-underline">
+          <button className="  text-2xl font-semibold text-white bg-indigo-600 px-3 py-2 inline-block font-mono rounded-md   mt-20">
             {" "}
             Start Learning
           </button>
