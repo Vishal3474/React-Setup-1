@@ -25,7 +25,7 @@ function Testimonials() {
                 />
               </div>
               <h5 class="font-bold text-indigo-600">Sunder Pichai </h5>
-              <p class="text-sm text-gray-600">CEO / Founder</p>
+              <p class="text-sm text-gray-600"> Marketing</p>
             </div>
           </div>
         </div>{" "}
@@ -44,7 +44,7 @@ function Testimonials() {
                 />
               </div>
               <h5 class="font-bold text-indigo-600"> John</h5>
-              <p class="text-sm text-gray-600">CEO / Founder</p>
+              <p class="text-sm text-gray-600">Co - Founder</p>
             </div>
           </div>
         </div>
@@ -82,7 +82,7 @@ function Testimonials() {
                 />
               </div>
               <h5 class="font-bold text-indigo-600">James</h5>
-              <p class="text-sm text-gray-600">CEO / Founder</p>
+              <p class="text-sm text-gray-600">Designer</p>
             </div>
           </div>
         </div>
@@ -120,7 +120,7 @@ function Testimonials() {
                 />
               </div>
               <h5 class="font-bold text-indigo-600">michael james</h5>
-              <p class="text-sm text-gray-600">web developer</p>
+              <p class="text-sm text-gray-600">App developer</p>
             </div>
           </div>
         </div>
