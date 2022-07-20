@@ -1,5 +1,6 @@
 import React from "react";
 import Embed from "./Embed";
+import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 
 function Courses() {
@@ -128,6 +129,7 @@ function Courses() {
       </div>
       <Testimonials></Testimonials>
       <Embed></Embed>
+      <Footer></Footer>
     </div>
   );
 }
